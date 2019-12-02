@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_MyAsset/_Scene/_immuno Catcher/Game-1.unity
+  isLoaded: 1
+  isActive: 1

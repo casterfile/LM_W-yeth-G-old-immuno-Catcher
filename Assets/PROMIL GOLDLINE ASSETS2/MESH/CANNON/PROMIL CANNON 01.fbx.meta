@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 3858bf05286d8d744874ca13dbe1ee82
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CANNON_BODY
+    100002: group4
+    100004: polySurface13
+    100006: polySurface15
+    100008: polySurface17
+    100010: polySurface19
+    100012: polySurface21
+    100014: polySurface23
+    100016: polySurface27
+    100018: polySurface28
+    100020: polySurface3
+    100022: polySurface30
+    100024: polySurface31
+    100026: polySurface7
+    100028: polySurface9
+    100030: //RootNode
+    100032: WHEEL_GRP
+    100034: WHEEL_L
+    100036: WHEEL_PLANK
+    100038: WHEEL_R
+    400000: CANNON_BODY
+    400002: group4
+    400004: polySurface13
+    400006: polySurface15
+    400008: polySurface17
+    400010: polySurface19
+    400012: polySurface21
+    400014: polySurface23
+    400016: polySurface27
+    400018: polySurface28
+    400020: polySurface3
+    400022: polySurface30
+    400024: polySurface31
+    400026: polySurface7
+    400028: polySurface9
+    400030: //RootNode
+    400032: WHEEL_GRP
+    400034: WHEEL_L
+    400036: WHEEL_PLANK
+    400038: WHEEL_R
+    2300000: polySurface13
+    2300002: polySurface15
+    2300004: polySurface17
+    2300006: polySurface19
+    2300008: polySurface21
+    2300010: polySurface23
+    2300012: polySurface27
+    2300014: polySurface28
+    2300016: polySurface3
+    2300018: polySurface30
+    2300020: polySurface31
+    2300022: polySurface7
+    2300024: polySurface9
+    2300026: WHEEL_PLANK
+    3300000: polySurface13
+    3300002: polySurface15
+    3300004: polySurface17
+    3300006: polySurface19
+    3300008: polySurface21
+    3300010: polySurface23
+    3300012: polySurface27
+    3300014: polySurface28
+    3300016: polySurface3
+    3300018: polySurface30
+    3300020: polySurface31
+    3300022: polySurface7
+    3300024: polySurface9
+    3300026: WHEEL_PLANK
+    4300000: polySurface9
+    4300002: polySurface13
+    4300004: polySurface28
+    4300006: polySurface3
+    4300008: polySurface7
+    4300010: polySurface27
+    4300012: WHEEL_PLANK
+    4300014: polySurface31
+    4300016: polySurface15
+    4300018: polySurface17
+    4300020: polySurface23
+    4300022: polySurface30
+    4300024: polySurface19
+    4300026: polySurface21
+    7400000: FIRE
+    7400002: PAUSE
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 97cf7c3d4f556354f9900a8906bae2d3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FIRE
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CANNON_BODY
+        weight: 1
+      - path: CANNON_BODY/polySurface15
+        weight: 1
+      - path: CANNON_BODY/polySurface17
+        weight: 1
+      - path: CANNON_BODY/polySurface19
+        weight: 1
+      - path: CANNON_BODY/polySurface21
+        weight: 1
+      - path: CANNON_BODY/polySurface23
+        weight: 1
+      - path: CANNON_BODY/polySurface30
+        weight: 1
+      - path: CANNON_BODY/polySurface31
+        weight: 1
+      - path: WHEEL_GRP
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_L
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_L/group4
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_L/group4/polySurface3
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_L/group4/polySurface7
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_L/group4/polySurface27
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_PLANK
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_R
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_R/polySurface9
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_R/polySurface13
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_R/polySurface28
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PAUSE
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CANNON_BODY
+        weight: 1
+      - path: CANNON_BODY/polySurface15
+        weight: 1
+      - path: CANNON_BODY/polySurface17
+        weight: 1
+      - path: CANNON_BODY/polySurface19
+        weight: 1
+      - path: CANNON_BODY/polySurface21
+        weight: 1
+      - path: CANNON_BODY/polySurface23
+        weight: 1
+      - path: CANNON_BODY/polySurface30
+        weight: 1
+      - path: CANNON_BODY/polySurface31
+        weight: 1
+      - path: WHEEL_GRP
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_L
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_L/group4
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_L/group4/polySurface3
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_L/group4/polySurface7
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_L/group4/polySurface27
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_PLANK
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_R
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_R/polySurface9
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_R/polySurface13
+        weight: 1
+      - path: WHEEL_GRP/WHEEL_R/polySurface28
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

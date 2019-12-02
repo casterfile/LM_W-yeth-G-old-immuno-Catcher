@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 43c352cbfc1fe1645b75e5493029c13f
+timeCreated: 1562756932
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CAN_BODY
+    100002: CAN_BOTTOM
+    100004: CAN_INNER
+    100006: CAN_LID_PLASTIC
+    100008: CAN_OUTER
+    100010: CAN_TOP_SIDES
+    100012: polySurface13
+    100014: polySurface22
+    100016: polySurface23
+    100018: polySurface24
+    100020: polySurface25
+    100022: polySurface26
+    100024: polySurface27
+    100026: polySurface38
+    100028: polySurface39
+    100030: polySurface40
+    100032: polySurface41
+    100034: polySurface52
+    100036: polySurface53
+    100038: polySurface54
+    100040: polySurface55
+    100042: polySurface66
+    100044: polySurface67
+    100046: polySurface67 1
+    100048: polySurface67 2
+    100050: polySurface67 3
+    100052: polySurface68
+    100054: polySurface68 1
+    100056: polySurface68 2
+    100058: polySurface68 3
+    100060: polySurface69
+    100062: polySurface69 1
+    100064: polySurface69 2
+    100066: polySurface69 3
+    100068: polySurface80
+    100070: polySurface80 1
+    100072: polySurface80 2
+    100074: polySurface80 3
+    100076: //RootNode
+    100078: SHPERE_02
+    100080: SHPERE_04
+    100082: SPHERE_01
+    100084: SPHERE_03
+    100086: SPHERE_05
+    100088: SPHERE_06
+    100090: SPHERE_07
+    100092: SPHERE_08
+    400000: CAN_BODY
+    400002: CAN_BOTTOM
+    400004: CAN_INNER
+    400006: CAN_LID_PLASTIC
+    400008: CAN_OUTER
+    400010: CAN_TOP_SIDES
+    400012: polySurface13
+    400014: polySurface22
+    400016: polySurface23
+    400018: polySurface24
+    400020: polySurface25
+    400022: polySurface26
+    400024: polySurface27
+    400026: polySurface38
+    400028: polySurface39
+    400030: polySurface40
+    400032: polySurface41
+    400034: polySurface52
+    400036: polySurface53
+    400038: polySurface54
+    400040: polySurface55
+    400042: polySurface66
+    400044: polySurface67
+    400046: polySurface67 1
+    400048: polySurface67 2
+    400050: polySurface67 3
+    400052: polySurface68
+    400054: polySurface68 1
+    400056: polySurface68 2
+    400058: polySurface68 3
+    400060: polySurface69
+    400062: polySurface69 1
+    400064: polySurface69 2
+    400066: polySurface69 3
+    400068: polySurface80
+    400070: polySurface80 1
+    400072: polySurface80 2
+    400074: polySurface80 3
+    400076: //RootNode
+    400078: SHPERE_02
+    400080: SHPERE_04
+    400082: SPHERE_01
+    400084: SPHERE_03
+    400086: SPHERE_05
+    400088: SPHERE_06
+    400090: SPHERE_07
+    400092: SPHERE_08
+    2300000: CAN_BOTTOM
+    2300002: CAN_INNER
+    2300004: CAN_LID_PLASTIC
+    2300006: CAN_OUTER
+    2300008: CAN_TOP_SIDES
+    2300010: polySurface13
+    2300012: polySurface23
+    2300014: polySurface24
+    2300016: polySurface25
+    2300018: polySurface27
+    2300020: polySurface38
+    2300022: polySurface39
+    2300024: polySurface41
+    2300026: polySurface52
+    2300028: polySurface53
+    2300030: polySurface55
+    2300032: polySurface66
+    2300034: polySurface67
+    2300036: polySurface67 1
+    2300038: polySurface67 2
+    2300040: polySurface67 3
+    2300042: polySurface69
+    2300044: polySurface69 1
+    2300046: polySurface69 2
+    2300048: polySurface69 3
+    2300050: polySurface80
+    2300052: polySurface80 1
+    2300054: polySurface80 2
+    2300056: polySurface80 3
+    3300000: CAN_BOTTOM
+    3300002: CAN_INNER
+    3300004: CAN_LID_PLASTIC
+    3300006: CAN_OUTER
+    3300008: CAN_TOP_SIDES
+    3300010: polySurface13
+    3300012: polySurface23
+    3300014: polySurface24
+    3300016: polySurface25
+    3300018: polySurface27
+    3300020: polySurface38
+    3300022: polySurface39
+    3300024: polySurface41
+    3300026: polySurface52
+    3300028: polySurface53
+    3300030: polySurface55
+    3300032: polySurface66
+    3300034: polySurface67
+    3300036: polySurface67 1
+    3300038: polySurface67 2
+    3300040: polySurface67 3
+    3300042: polySurface69
+    3300044: polySurface69 1
+    3300046: polySurface69 2
+    3300048: polySurface69 3
+    3300050: polySurface80
+    3300052: polySurface80 1
+    3300054: polySurface80 2
+    3300056: polySurface80 3
+    4300000: CAN_TOP_SIDES
+    4300002: CAN_INNER
+    4300004: CAN_OUTER
+    4300006: CAN_LID_PLASTIC
+    4300008: CAN_BOTTOM
+    4300010: polySurface39
+    4300012: polySurface52
+    4300014: polySurface41
+    4300016: polySurface23
+    4300018: polySurface24
+    4300020: polySurface13
+    4300022: polySurface25
+    4300024: polySurface38
+    4300026: polySurface27
+    4300028: polySurface53
+    4300030: polySurface66
+    4300032: polySurface55
+    4300034: polySurface67
+    4300036: polySurface80
+    4300038: polySurface69
+    4300040: polySurface67
+    4300042: polySurface80
+    4300044: polySurface69
+    4300046: polySurface67
+    4300048: polySurface80
+    4300050: polySurface69
+    4300052: polySurface67
+    4300054: polySurface80
+    4300056: polySurface69
+    7400000: PAUSE
+    7400002: SHAKE
+    7400004: EXPLODE
+    7400006: REVERSE
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PAUSE
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CAN_BODY
+        weight: 1
+      - path: CAN_BODY/CAN_INNER
+        weight: 1
+      - path: CAN_BODY/CAN_OUTER
+        weight: 1
+      - path: CAN_BOTTOM
+        weight: 1
+      - path: CAN_LID_PLASTIC
+        weight: 1
+      - path: CAN_TOP_SIDES
+        weight: 1
+      - path: SHPERE_02
+        weight: 1
+      - path: SHPERE_02/polySurface13
+        weight: 1
+      - path: SHPERE_02/polySurface22
+        weight: 1
+      - path: SHPERE_02/polySurface22/polySurface23
+        weight: 1
+      - path: SHPERE_02/polySurface22/polySurface24
+        weight: 1
+      - path: SHPERE_04
+        weight: 1
+      - path: SHPERE_04/polySurface53
+        weight: 1
+      - path: SHPERE_04/polySurface54
+        weight: 1
+      - path: SHPERE_04/polySurface54/polySurface66
+        weight: 1
+      - path: SHPERE_04/polySurface55
+        weight: 1
+      - path: SPHERE_01
+        weight: 1
+      - path: SPHERE_01/polySurface39
+        weight: 1
+      - path: SPHERE_01/polySurface40
+        weight: 1
+      - path: SPHERE_01/polySurface40/polySurface52
+        weight: 1
+      - path: SPHERE_01/polySurface41
+        weight: 1
+      - path: SPHERE_03
+        weight: 1
+      - path: SPHERE_03/polySurface25
+        weight: 1
+      - path: SPHERE_03/polySurface26
+        weight: 1
+      - path: SPHERE_03/polySurface26/polySurface38
+        weight: 1
+      - path: SPHERE_03/polySurface27
+        weight: 1
+      - path: SPHERE_05
+        weight: 1
+      - path: SPHERE_05/polySurface67
+        weight: 1
+      - path: SPHERE_05/polySurface68
+        weight: 1
+      - path: SPHERE_05/polySurface68/polySurface80
+        weight: 1
+      - path: SPHERE_05/polySurface69
+        weight: 1
+      - path: SPHERE_06
+        weight: 1
+      - path: SPHERE_06/polySurface67 1
+        weight: 1
+      - path: SPHERE_06/polySurface68 1
+        weight: 1
+      - path: SPHERE_06/polySurface68 1/polySurface80 1
+        weight: 1
+      - path: SPHERE_06/polySurface69 1
+        weight: 1
+      - path: SPHERE_07
+        weight: 1
+      - path: SPHERE_07/polySurface67 2
+        weight: 1
+      - path: SPHERE_07/polySurface68 2
+        weight: 1
+      - path: SPHERE_07/polySurface68 2/polySurface80 2
+        weight: 1
+      - path: SPHERE_07/polySurface69 2
+        weight: 1
+      - path: SPHERE_08
+        weight: 1
+      - path: SPHERE_08/polySurface67 3
+        weight: 1
+      - path: SPHERE_08/polySurface68 3
+        weight: 1
+      - path: SPHERE_08/polySurface68 3/polySurface80 3
+        weight: 1
+      - path: SPHERE_08/polySurface69 3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SHAKE
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CAN_BODY
+        weight: 1
+      - path: CAN_BODY/CAN_INNER
+        weight: 1
+      - path: CAN_BODY/CAN_OUTER
+        weight: 1
+      - path: CAN_BOTTOM
+        weight: 1
+      - path: CAN_LID_PLASTIC
+        weight: 1
+      - path: CAN_TOP_SIDES
+        weight: 1
+      - path: SHPERE_02
+        weight: 1
+      - path: SHPERE_02/polySurface13
+        weight: 1
+      - path: SHPERE_02/polySurface22
+        weight: 1
+      - path: SHPERE_02/polySurface22/polySurface23
+        weight: 1
+      - path: SHPERE_02/polySurface22/polySurface24
+        weight: 1
+      - path: SHPERE_04
+        weight: 1
+      - path: SHPERE_04/polySurface53
+        weight: 1
+      - path: SHPERE_04/polySurface54
+        weight: 1
+      - path: SHPERE_04/polySurface54/polySurface66
+        weight: 1
+      - path: SHPERE_04/polySurface55
+        weight: 1
+      - path: SPHERE_01
+        weight: 1
+      - path: SPHERE_01/polySurface39
+        weight: 1
+      - path: SPHERE_01/polySurface40
+        weight: 1
+      - path: SPHERE_01/polySurface40/polySurface52
+        weight: 1
+      - path: SPHERE_01/polySurface41
+        weight: 1
+      - path: SPHERE_03
+        weight: 1
+      - path: SPHERE_03/polySurface25
+        weight: 1
+      - path: SPHERE_03/polySurface26
+        weight: 1
+      - path: SPHERE_03/polySurface26/polySurface38
+        weight: 1
+      - path: SPHERE_03/polySurface27
+        weight: 1
+      - path: SPHERE_05
+        weight: 1
+      - path: SPHERE_05/polySurface67
+        weight: 1
+      - path: SPHERE_05/polySurface68
+        weight: 1
+      - path: SPHERE_05/polySurface68/polySurface80
+        weight: 1
+      - path: SPHERE_05/polySurface69
+        weight: 1
+      - path: SPHERE_06
+        weight: 1
+      - path: SPHERE_06/polySurface67 1
+        weight: 1
+      - path: SPHERE_06/polySurface68 1
+        weight: 1
+      - path: SPHERE_06/polySurface68 1/polySurface80 1
+        weight: 1
+      - path: SPHERE_06/polySurface69 1
+        weight: 1
+      - path: SPHERE_07
+        weight: 1
+      - path: SPHERE_07/polySurface67 2
+        weight: 1
+      - path: SPHERE_07/polySurface68 2
+        weight: 1
+      - path: SPHERE_07/polySurface68 2/polySurface80 2
+        weight: 1
+      - path: SPHERE_07/polySurface69 2
+        weight: 1
+      - path: SPHERE_08
+        weight: 1
+      - path: SPHERE_08/polySurface67 3
+        weight: 1
+      - path: SPHERE_08/polySurface68 3
+        weight: 1
+      - path: SPHERE_08/polySurface68 3/polySurface80 3
+        weight: 1
+      - path: SPHERE_08/polySurface69 3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: EXPLODE
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CAN_BODY
+        weight: 1
+      - path: CAN_BODY/CAN_INNER
+        weight: 1
+      - path: CAN_BODY/CAN_OUTER
+        weight: 1
+      - path: CAN_BOTTOM
+        weight: 1
+      - path: CAN_LID_PLASTIC
+        weight: 1
+      - path: CAN_TOP_SIDES
+        weight: 1
+      - path: SHPERE_02
+        weight: 1
+      - path: SHPERE_02/polySurface13
+        weight: 1
+      - path: SHPERE_02/polySurface22
+        weight: 1
+      - path: SHPERE_02/polySurface22/polySurface23
+        weight: 1
+      - path: SHPERE_02/polySurface22/polySurface24
+        weight: 1
+      - path: SHPERE_04
+        weight: 1
+      - path: SHPERE_04/polySurface53
+        weight: 1
+      - path: SHPERE_04/polySurface54
+        weight: 1
+      - path: SHPERE_04/polySurface54/polySurface66
+        weight: 1
+      - path: SHPERE_04/polySurface55
+        weight: 1
+      - path: SPHERE_01
+        weight: 1
+      - path: SPHERE_01/polySurface39
+        weight: 1
+      - path: SPHERE_01/polySurface40
+        weight: 1
+      - path: SPHERE_01/polySurface40/polySurface52
+        weight: 1
+      - path: SPHERE_01/polySurface41
+        weight: 1
+      - path: SPHERE_03
+        weight: 1
+      - path: SPHERE_03/polySurface25
+        weight: 1
+      - path: SPHERE_03/polySurface26
+        weight: 1
+      - path: SPHERE_03/polySurface26/polySurface38
+        weight: 1
+      - path: SPHERE_03/polySurface27
+        weight: 1
+      - path: SPHERE_05
+        weight: 1
+      - path: SPHERE_05/polySurface67
+        weight: 1
+      - path: SPHERE_05/polySurface68
+        weight: 1
+      - path: SPHERE_05/polySurface68/polySurface80
+        weight: 1
+      - path: SPHERE_05/polySurface69
+        weight: 1
+      - path: SPHERE_06
+        weight: 1
+      - path: SPHERE_06/polySurface67 1
+        weight: 1
+      - path: SPHERE_06/polySurface68 1
+        weight: 1
+      - path: SPHERE_06/polySurface68 1/polySurface80 1
+        weight: 1
+      - path: SPHERE_06/polySurface69 1
+        weight: 1
+      - path: SPHERE_07
+        weight: 1
+      - path: SPHERE_07/polySurface67 2
+        weight: 1
+      - path: SPHERE_07/polySurface68 2
+        weight: 1
+      - path: SPHERE_07/polySurface68 2/polySurface80 2
+        weight: 1
+      - path: SPHERE_07/polySurface69 2
+        weight: 1
+      - path: SPHERE_08
+        weight: 1
+      - path: SPHERE_08/polySurface67 3
+        weight: 1
+      - path: SPHERE_08/polySurface68 3
+        weight: 1
+      - path: SPHERE_08/polySurface68 3/polySurface80 3
+        weight: 1
+      - path: SPHERE_08/polySurface69 3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: REVERSE
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CAN_BODY
+        weight: 1
+      - path: CAN_BODY/CAN_INNER
+        weight: 1
+      - path: CAN_BODY/CAN_OUTER
+        weight: 1
+      - path: CAN_BOTTOM
+        weight: 1
+      - path: CAN_LID_PLASTIC
+        weight: 1
+      - path: CAN_TOP_SIDES
+        weight: 1
+      - path: SHPERE_02
+        weight: 1
+      - path: SHPERE_02/polySurface13
+        weight: 1
+      - path: SHPERE_02/polySurface22
+        weight: 1
+      - path: SHPERE_02/polySurface22/polySurface23
+        weight: 1
+      - path: SHPERE_02/polySurface22/polySurface24
+        weight: 1
+      - path: SHPERE_04
+        weight: 1
+      - path: SHPERE_04/polySurface53
+        weight: 1
+      - path: SHPERE_04/polySurface54
+        weight: 1
+      - path: SHPERE_04/polySurface54/polySurface66
+        weight: 1
+      - path: SHPERE_04/polySurface55
+        weight: 1
+      - path: SPHERE_01
+        weight: 1
+      - path: SPHERE_01/polySurface39
+        weight: 1
+      - path: SPHERE_01/polySurface40
+        weight: 1
+      - path: SPHERE_01/polySurface40/polySurface52
+        weight: 1
+      - path: SPHERE_01/polySurface41
+        weight: 1
+      - path: SPHERE_03
+        weight: 1
+      - path: SPHERE_03/polySurface25
+        weight: 1
+      - path: SPHERE_03/polySurface26
+        weight: 1
+      - path: SPHERE_03/polySurface26/polySurface38
+        weight: 1
+      - path: SPHERE_03/polySurface27
+        weight: 1
+      - path: SPHERE_05
+        weight: 1
+      - path: SPHERE_05/polySurface67
+        weight: 1
+      - path: SPHERE_05/polySurface68
+        weight: 1
+      - path: SPHERE_05/polySurface68/polySurface80
+        weight: 1
+      - path: SPHERE_05/polySurface69
+        weight: 1
+      - path: SPHERE_06
+        weight: 1
+      - path: SPHERE_06/polySurface67 1
+        weight: 1
+      - path: SPHERE_06/polySurface68 1
+        weight: 1
+      - path: SPHERE_06/polySurface68 1/polySurface80 1
+        weight: 1
+      - path: SPHERE_06/polySurface69 1
+        weight: 1
+      - path: SPHERE_07
+        weight: 1
+      - path: SPHERE_07/polySurface67 2
+        weight: 1
+      - path: SPHERE_07/polySurface68 2
+        weight: 1
+      - path: SPHERE_07/polySurface68 2/polySurface80 2
+        weight: 1
+      - path: SPHERE_07/polySurface69 2
+        weight: 1
+      - path: SPHERE_08
+        weight: 1
+      - path: SPHERE_08/polySurface67 3
+        weight: 1
+      - path: SPHERE_08/polySurface68 3
+        weight: 1
+      - path: SPHERE_08/polySurface68 3/polySurface80 3
+        weight: 1
+      - path: SPHERE_08/polySurface69 3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

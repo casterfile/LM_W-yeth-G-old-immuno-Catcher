@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: 78e1af2d0cb650e448c1e03e0f8810a2
+timeCreated: 1563183121
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ALPHA_LIPIDS1_polySurface20
+    100004: ALPHA_LIPIDS:pSphere2_ALPHA_LIPIDS:polySurface2_polySurface1_ALPHA_LIPIDS1
+    100006: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface12
+    100008: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface20
+    100010: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface8
+    400000: //RootNode
+    400002: ALPHA_LIPIDS1_polySurface20
+    400004: ALPHA_LIPIDS:pSphere2_ALPHA_LIPIDS:polySurface2_polySurface1_ALPHA_LIPIDS1
+    400006: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface12
+    400008: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface20
+    400010: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface8
+    2300000: ALPHA_LIPIDS1_polySurface20
+    2300002: ALPHA_LIPIDS:pSphere2_ALPHA_LIPIDS:polySurface2_polySurface1_ALPHA_LIPIDS1
+    2300004: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface12
+    2300006: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface20
+    2300008: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface8
+    3300000: ALPHA_LIPIDS1_polySurface20
+    3300002: ALPHA_LIPIDS:pSphere2_ALPHA_LIPIDS:polySurface2_polySurface1_ALPHA_LIPIDS1
+    3300004: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface12
+    3300006: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface20
+    3300008: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface8
+    4300000: ALPHA_LIPIDS1_polySurface20
+    4300002: ALPHA_LIPIDS:pSphere2_ALPHA_LIPIDS:polySurface2_polySurface1_ALPHA_LIPIDS1
+    4300004: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface12
+    4300006: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface20
+    4300008: ALPHA_LIPIDS:typeMesh36_ALPHA_LIPIDS1_polySurface8
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
